@@ -1,2 +1,2 @@
-# taskson-paython
-tasks on paython
+# tasks-on-python
+tasks on python
